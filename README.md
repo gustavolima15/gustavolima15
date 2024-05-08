@@ -8,8 +8,8 @@ Desenvolvedor Backend com formação em Ciência e Tecnologia. Durante minha jor
 </div></br>
 
 <div>
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=gustavolima43&show_icons=true&theme=dracula"/>
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolima43&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=gustavolima15&show_icons=true&theme=dracula"/>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolima15&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 
