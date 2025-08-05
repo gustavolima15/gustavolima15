@@ -1,3 +1,4 @@
+
 ## 👋 Olá! Eu sou o Gustavo Lima Mendes
 
 Sou Desenvolvedor Full Stack com formação em Ciência e Tecnologia e especialização em Engenharia de Software pela UFBA. Durante minha jornada, desenvolvi soluções completas com Node.js, Vue.js, TypeScript, MySQL, Jest e outras tecnologias modernas, sempre buscando gerar impacto real por meio de automação e inovação.
@@ -28,19 +29,15 @@ Recentemente atuei na Justiça Federal, onde desenvolvi uma solução fullstack 
 
 ### 🚀 Projetos em destaque:
 
-- 🎥 [**Me Filma!**](#) – Aplicativo em desenvolvimento para captura e organização de lances esportivos (futebol, futsal, sinuca, futvôlei e outros). Utiliza **React Native** no app mobile, **React** no painel administrativo, **NestJS** no backend com **PrismaORM**. O projeto visa facilitar a gravação e visualização dos melhores momentos de partidas amadoras e eventos esportivos.
+- 🎥 [**Me Filma!**](#) – Aplicativo em desenvolvimento para captura e organização de lances esportivos (futebol, futsal, sinuca, futvôlei e outros). Utiliza **React Native** no app mobile, **React** no painel administrativo, **NestJS** no backend com **PrismaORM**.
 
-- 🔧 [**Automação SISBAJUD**](#) – Projeto fullstack com Node.js + Vue.js para automação de bloqueios judiciais na Justiça Federal, via extensão do navegador com manipulação do DOM e preenchimento automatizado de formulários.
+- 🔧 [**Automação SISBAJUD**](#) – Projeto fullstack com Node.js + Vue.js para automação de bloqueios judiciais na Justiça Federal.
 
-- 🧾 [**Consulta Processual PJe+R**](#) – Automação de verificação do status de pagamento de processos judiciais com Vue.js, Node.js com Express.js.
+- 🧾 [**Consulta Processual PJe+R**](#) – Automação de verificação do status de pagamento de processos judiciais com Vue.js e Node.js.
 
 - 📋 [**Sistema de Presença – Tech Girls**](#) – Funcionalidade de registro de presença integrada ao WordPress utilizando JavaScript puro.
 
-- 💼 [**ÓiaFia! – TITAN EJ**](#) – API RESTful com Node.js, Prisma ORM e Jest, integrada a um painel administrativo para gerenciamento de produtos e usuários.
-
-
-
-*Links clicáveis serão adicionados em breve!*
+- 💼 [**ÓiaFia! – TITAN EJ**](#) – API RESTful com Node.js, Prisma ORM e Jest.
 
 ---
 
