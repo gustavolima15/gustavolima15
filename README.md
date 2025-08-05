@@ -1,7 +1,7 @@
 
 ## 👋 Olá! Eu sou o Gustavo Lima Mendes
 
-Sou Desenvolvedor Full Stack com formação em Ciência e Tecnologia e especialização em Engenharia de Software pela UFBA. Durante minha jornada, desenvolvi soluções completas com Node.js, Vue.js, TypeScript, MySQL, Jest e outras tecnologias modernas, sempre buscando gerar impacto real por meio de automação e inovação.
+Sou Desenvolvedor Full Stack com formação em Ciência e Tecnologia e especialização em Engenharia de Software pela UFBA. Durante minha jornada, desenvolvi soluções completas com Node.js, Java, Vue.js, TypeScript, MySQL, Jest e outras tecnologias modernas, sempre buscando gerar impacto real por meio de automação e inovação.
 
 Recentemente atuei na Justiça Federal, onde desenvolvi uma solução fullstack para automação de bloqueios judiciais no sistema SISBAJUD, reduzindo o tempo de execução de horas para minutos. Também contribuí como desenvolvedor na empresa júnior TITAN e no projeto Tech Girls.
 
