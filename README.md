@@ -55,7 +55,7 @@ Recentemente atuei na Justiça Federal, onde desenvolvi uma solução fullstack 
 
 ### 🐍 Atividade no GitHub (Snake Animation)
 
-![Snake animation](https://github.com/gustavolima15/gustavolima15/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/gustavolima15/gustavolima15/output/github-contribution-grid-snake.svg)
 
 ---
 
