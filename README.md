@@ -17,6 +17,7 @@ Recentemente atuei na Justiça Federal, onde desenvolvi uma solução fullstack 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-000000?logo=OpenJDK)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
@@ -36,9 +37,9 @@ Recentemente atuei na Justiça Federal, onde desenvolvi uma solução fullstack 
 
 - 🔧 [**Automação SISBAJUD**](#) – Projeto fullstack com Node.js + Vue.js para automação de bloqueios judiciais na Justiça Federal.
 
-- 🧾 [**Consulta Processual PJe+R**](#) – Automação de verificação do status de pagamento de processos judiciais com Vue.js, Node.js, Python.
+- 🧾 [**Consulta Processual PJe+R**](#) – Automação de verificação do status de pagamento de processos judiciais com Vue.js e Node.js.
 
-- 📋 [**Sistema de Presença – Tech Girls**](#) – Funcionalidade de registro de presença integrada ao WordPress utilizando JavaScript e PHP.
+- 📋 [**Sistema de Presença – Tech Girls**](#) – Funcionalidade de registro de presença integrada ao WordPress utilizando JavaScript puro.
 
 - 💼 [**ÓiaFia! – TITAN EJ**](#) – API RESTful com Node.js, Prisma ORM e Jest.
 
