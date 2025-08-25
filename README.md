@@ -36,9 +36,9 @@ Recentemente atuei na Justiça Federal, onde desenvolvi uma solução fullstack 
 
 - 🔧 [**Automação SISBAJUD**](#) – Projeto fullstack com Node.js + Vue.js para automação de bloqueios judiciais na Justiça Federal.
 
-- 🧾 [**Consulta Processual PJe+R**](#) – Automação de verificação do status de pagamento de processos judiciais com Vue.js e Node.js.
+- 🧾 [**Consulta Processual PJe+R**](#) – Automação de verificação do status de pagamento de processos judiciais com Vue.js, Node.js, Python.
 
-- 📋 [**Sistema de Presença – Tech Girls**](#) – Funcionalidade de registro de presença integrada ao WordPress utilizando JavaScript puro.
+- 📋 [**Sistema de Presença – Tech Girls**](#) – Funcionalidade de registro de presença integrada ao WordPress utilizando JavaScript e PHP.
 
 - 💼 [**ÓiaFia! – TITAN EJ**](#) – API RESTful com Node.js, Prisma ORM e Jest.
 
